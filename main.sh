@@ -1,0 +1,1 @@
+#it's main script file in project!
